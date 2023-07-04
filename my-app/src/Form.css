@@ -4,6 +4,7 @@
     align-items: center;
   }
   
+  
   label {
     margin-top: 10px;
   }
@@ -13,6 +14,7 @@
     padding: 5px;
     width: 200px;
   }
+  body{ background-color:beige};
   
   button {
     margin-top: 10px;
